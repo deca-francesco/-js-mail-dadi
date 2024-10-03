@@ -60,5 +60,6 @@ else if (user_score = cpu_score) {
 // output
 console.log(`GIOCATORE: ${user_score} CPU ${cpu_score}`);
 console.log(winner_is, winner);
-alert(`GIOCATORE: ${user_score} CPU: ${cpu_score} 
+alert(`GIOCATORE: ${user_score} 
+CPU: ${cpu_score} 
 ${winner_is} ${winner}`);
